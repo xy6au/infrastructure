@@ -61,6 +61,13 @@ body {
   background-color: #ffffff;
 }
 
+.legend {
+  display: inline-block;
+  border-radius:100%;
+  width:10px;
+  height: 10px;
+  margin-right: 5px;
+}
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
